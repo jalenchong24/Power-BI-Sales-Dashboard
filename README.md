@@ -23,7 +23,7 @@ This Power BI dashboard was built as part of my completion of the [DA-100 Certif
 
 <img width="1585" height="790" alt="image (2) (1)" src="https://github.com/user-attachments/assets/664a87a0-d5a8-4ddc-823e-a94c7b6758cd" />
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 - Power Query (M) transformations  
 - DAX measures & calculated columns  
@@ -31,7 +31,7 @@ This Power BI dashboard was built as part of my completion of the [DA-100 Certif
 - Data model design & relationships  
 - Visual design best practices
 
-## 📜 Certification
+##  Certification
 
 Completed [Microsoft Power BI Certification: DA-100 Exam Prep](https://cupe1734.udemy.com/course/microsoft-power-bi-certification-da-100-exam-prep/).
 
